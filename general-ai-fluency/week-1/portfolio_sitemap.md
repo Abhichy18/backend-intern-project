@@ -8,11 +8,11 @@
 
 ## My One Claim
 
-> **"I build AI-powered backend systems that ship fast and scale cleanly."**
+> **"I build REST APIs that plug AI tools into real backend systems."**
 
 ## My One Action (what I want visitors to do)
 
-> **"Contact me for internships / backend projects / collaborations."**
+> **"Email me to talk about building something together."**
 
 ---
 
@@ -28,8 +28,8 @@ Every page below earns its place by moving the visitor one step closer to the on
 
         ┌──────────────────────────────────┐
         │           HOME / HERO            │  ← LANDING
-        │  "I build AI-powered backends    │
-        │   that ship fast & scale clean"  │
+        │   "I build REST APIs that plug   │
+        │   AI tools into backend systems" │
         │  [CTA Button: See My Work ↓]     │
         └────────────┬─────────────────────┘
                      │
@@ -80,10 +80,10 @@ Navigation: Home | Work | About | Contact
 WHO I AM:
 I am Abhishek Choudhary, a Backend AI Engineer intern at Flyrank.
 I am building a portfolio website over 8 weeks to prove one claim:
-"I build AI-powered backend systems that ship fast and scale cleanly."
+"I build REST APIs that plug AI tools into real backend systems."
 
 MY ONE ACTION I WANT VISITORS TO TAKE:
-Contact me for internships, backend collaborations, or freelance projects.
+Email me to talk about building something together.
 
 MY PROOF STATEMENT (paste this in every relevant session):
 I have built Flask/Node.js APIs, worked with databases (PostgreSQL, MongoDB),
